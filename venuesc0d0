@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/com_icagenda/icicons/style.css" type="text/css"?>
+<?xml-stylesheet href="/media/com_icagenda/css/icagenda-front.css" type="text/css"?>
+<?xml-stylesheet href="/media/com_icagenda/css/tipTip.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?9c1342e58079047157551641b515a294" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>R.C.J. Campbell - Venues</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.rcjcampbell.co.uk</link>
+		<lastBuildDate>Wed, 07 Jan 2026 20:12:57 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.rcjcampbell.co.uk/venues?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Stirling Management Centre (Robert Campbell)</title>
+			<link>https://www.rcjcampbell.co.uk/venues/2-stirling-management-centre</link>
+			<guid isPermaLink="true">https://www.rcjcampbell.co.uk/venues/2-stirling-management-centre</guid>
+			<description><![CDATA[2013-08-28 12:30 PM<br /><img src="https://www.rcjcampbell.co.uk/images/icagenda/thumbs/themes/ic_medium_w300h300q100_smc.jpg" alt="" style="margin: 5px; float: left;"><p>We will all be meeting later at&nbsp;Stirling Management Centre in the grounds of Stirling University. You are invited to join us for a less formal gathering and refreshment. Please let us know by <a href="https://www.rcjcampbell.co.uk/venues/2-stirling-management-centre/event_registration">registering</a> if you are able to join us.</p>]]></description>
+			<category>Robert Campbell</category>
+			<pubDate>Wed, 28 Aug 2013 12:30:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Falkirk Crematorium (Robert Campbell)</title>
+			<link>https://www.rcjcampbell.co.uk/venues/1-falkirk-crematorium</link>
+			<guid isPermaLink="true">https://www.rcjcampbell.co.uk/venues/1-falkirk-crematorium</guid>
+			<description><![CDATA[2013-08-28 11:00 AM<br /><img src="https://www.rcjcampbell.co.uk/images/icagenda/thumbs/themes/ic_medium_w300h300q100_fc.jpg" alt="" style="margin: 5px; float: left;"><p>You are invited to a short service at Falkirk Crematorium. Please <a href="https://www.rcjcampbell.co.uk/venues/1-falkirk-crematorium/event_registration">register</a> if you are intending to join as this will be helpful with regards to numbers both at the service and/or afterwards at <a href="https://www.rcjcampbell.co.uk/venues/2-stirling-management-centre/event_details">Stirling Management Centre</a>.</p>]]></description>
+			<category>Robert Campbell</category>
+			<pubDate>Wed, 28 Aug 2013 11:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
